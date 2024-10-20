@@ -1,0 +1,50 @@
+<svg width="1280" height="832" viewBox="0 0 1280 832" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_22_211)">
+<rect width="1280" height="832" fill="url(#paint0_linear_22_211)"/>
+<g filter="url(#filter0_f_22_211)">
+<path d="M85 516C85 672.849 42.2432 800 -10.5 800C-63.2432 800 -106 672.849 -106 516C-106 359.151 -63.2432 232 -10.5 232C42.2432 232 85 359.151 85 516Z" fill="url(#paint1_radial_22_211)" fill-opacity="0.1"/>
+</g>
+<g filter="url(#filter1_f_22_211)">
+<path d="M1320 354C1320 510.849 1277.24 638 1224.5 638C1171.76 638 1129 510.849 1129 354C1129 197.151 1171.76 70 1224.5 70C1277.24 70 1320 197.151 1320 354Z" fill="url(#paint2_radial_22_211)" fill-opacity="0.1"/>
+</g>
+<g filter="url(#filter2_f_22_211)">
+<path d="M890 399C890 555.849 782.996 683 651 683C519.004 683 412 555.849 412 399C412 242.151 519.004 115 651 115C782.996 115 890 242.151 890 399Z" fill="url(#paint3_radial_22_211)" fill-opacity="0.1"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_22_211" x="-206" y="132" width="391" height="768" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="50" result="effect1_foregroundBlur_22_211"/>
+</filter>
+<filter id="filter1_f_22_211" x="1029" y="-30" width="391" height="768" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="50" result="effect1_foregroundBlur_22_211"/>
+</filter>
+<filter id="filter2_f_22_211" x="312" y="15" width="678" height="768" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="50" result="effect1_foregroundBlur_22_211"/>
+</filter>
+<linearGradient id="paint0_linear_22_211" x1="640" y1="0" x2="640" y2="832" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#E3FCFF"/>
+</linearGradient>
+<radialGradient id="paint1_radial_22_211" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(-10.5 516) rotate(90) scale(284 95.5)">
+<stop stop-color="#5E5E5E"/>
+<stop offset="1" stop-color="#C4C4C4"/>
+</radialGradient>
+<radialGradient id="paint2_radial_22_211" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1224.5 354) rotate(90) scale(284 95.5)">
+<stop stop-color="#5E5E5E"/>
+<stop offset="1" stop-color="#C4C4C4"/>
+</radialGradient>
+<radialGradient id="paint3_radial_22_211" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(651 399) rotate(90) scale(284 239)">
+<stop stop-color="#5E5E5E"/>
+<stop offset="1" stop-color="#C4C4C4"/>
+</radialGradient>
+<clipPath id="clip0_22_211">
+<rect width="1280" height="832" fill="white"/>
+</clipPath>
+</defs>
+</svg>
